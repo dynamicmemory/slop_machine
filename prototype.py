@@ -10,7 +10,7 @@ while True:
         break
 
     payload = {
-        "model": "llama3.1:8B",
+        "model": "gemma4:latest",
         "prompt": prompt,
         "stream": True 
         }
